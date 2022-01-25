@@ -9,6 +9,7 @@ export default function main(app) {
     table: storageStack.table,
   });
 
+  // eslint-disable-next-line no-new
   new AuthStack(app, 'auth', {
     api: apiStack.api,
     bucket: storageStack.bucket,
