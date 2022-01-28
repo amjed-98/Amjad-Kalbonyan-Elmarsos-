@@ -10,5 +10,5 @@
 - Searching data
 - Filtering and value counting with hash tables
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/programming-foundations-algorithms/)
+[Course Link](https://drive.google.com/file/d/1vOpVbjyezSyv-6_-cc1xdnie-Ps6fCqE/view?usp=sharing)
 <br>[Preview Certificate]()

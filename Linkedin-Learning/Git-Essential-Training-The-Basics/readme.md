@@ -10,5 +10,5 @@
 - Analyze the Git repository’s index of changes.
 - Analyze Git features for ignoring files and directories.
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/git-essential-training-the-basics)
+[Course Link](https://drive.google.com/file/d/1T2S4OdSNKydHbzDxKcvR7yvP56Sh1tM7/view?usp=sharing)
 <br>[Preview Certificate]()
