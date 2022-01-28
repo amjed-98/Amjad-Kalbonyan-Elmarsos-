@@ -60,8 +60,8 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 <br />
 
 - [x] ![#0D64C3](https://via.placeholder.com/12/0D64C3/000000?text=+) `Done` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](Udemy/The%20Modern%20JavaScript%20Bootcamp/)
-- [x] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `Done` `39h` - 14 - [The Complete React Developer Course](Udemy/The%20Complete%20React%20Developer%20Course)
-- [x] ![#EC5E5D](https://via.placeholder.com/12/EC5E5D/000000?text=+) `Done` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
+- [x] ![#0D64C3](https://via.placeholder.com/12/EC5E5D/000000?text=+) `Done` `39h` - 14 - [The Complete React Developer Course](Udemy/The%20Complete%20React%20Developer%20Course)
+- [x] ![#0D64C3](https://via.placeholder.com/12/EC5E5D/000000?text=+) `Done` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](Udemy/The%20Complete%20Node.js%20Developer%20Course/)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue">
 <br />
@@ -76,8 +76,8 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
-- [x] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `Done` `7h` - 16 - [AWS Certified Cloud Practitioner 2020](aGuruCloud/AWS%20Certified%20Cloud%20Practitioner%202020/)
-- [ ] ![#F78923](https://via.placeholder.com/12/F78923/000000?text=+) `Done` `35h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](<aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02)>)
+- [x] ![#0D64C3](https://via.placeholder.com/12/F78923/000000?text=+) `Done` `7h` - 16 - [AWS Certified Cloud Practitioner 2020](aGuruCloud/AWS%20Certified%20Cloud%20Practitioner%202020/)
+- [ ] ![#0D64C3](https://via.placeholder.com/12/F78923/000000?text=+) `Done` `35h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](<aGuruCloud/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02)>)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-42h-blue">
 <br />
@@ -92,4 +92,4 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
-- [x] ![#E27152](https://via.placeholder.com/12/E27152/000000?text=+) `Done` - 18 - [Serverless Stack (SST)](serverless-stack-project/)
+- [x] ![#0D64C3](https://via.placeholder.com/12/E27152/000000?text=+) `Done` - 18 - [Serverless Stack (SST)](serverless-stack-project/)
