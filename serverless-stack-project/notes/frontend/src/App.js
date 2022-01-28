@@ -6,6 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import './App.css';
 import { onError } from './lib/errorLib';
 import Nav from 'react-bootstrap/Nav';
+import ErrorBoundary from './components/ErrorBoundary';
 import { AppContext } from './lib/contextLib';
 import Routes from './Routes';
 
@@ -71,9 +72,11 @@ return (
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-      <AppContext.Provider value={{ isAuthenticated, userHasAuthenticated }}>
-        <Routes />
-      </AppContext.Provider>
+      <ErrorBoundary>
+        <AppContext.Provider value={{ isAuthenticated, userHasAuthenticated }}>
+          <Routes />
+        </AppContext.Provider>
+      </ErrorBoundary>
     </div>
   )
 );
